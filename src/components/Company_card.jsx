@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import worK_mobile_app from "../assets/worK_mobile_app.png";
+import worK_mobile_app from "../assets/work_mobile_app.png";
 import work_fitness_app from "../assets/work_fitness_app.png";
 import work_dashboard_management from "../assets/work_dashboard_management.png";
 import {ThemeContextProvider} from '../comtextApi/ThemeContext'
